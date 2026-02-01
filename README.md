@@ -1,1 +1,3 @@
-# Trabajo-2-
+# Trabajo-2
+
+@Author Franco Paiz and Ignacio Guardado
